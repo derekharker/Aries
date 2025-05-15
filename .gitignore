@@ -12,3 +12,12 @@ aries/bin
 aries/lib
 project
 my_project
+*.mlir
+Makefile
+*.1
+*.png
+*.cfg
+lib64
+*.json
+*.svg
+llvm-project
