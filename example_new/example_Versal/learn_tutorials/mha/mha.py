@@ -107,4 +107,4 @@ prj_dir= cur_dir + '/project_mha'
 temp_dir= aries_path + '/templates'
 # Generate Initial MLIR and ARIES Opts
 sch.build(all_code, prj_dir, temp_dir)
-sch.compile(aries_path, prj_dir)
+sch.compile(aries_path, prj_dir, target = "report")
