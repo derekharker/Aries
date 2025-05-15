@@ -20,4 +20,3 @@ Makefile
 lib64
 *.json
 *.svg
-externals/llvm-project
